@@ -1,0 +1,8 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American sitcom</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.4</b>/10<br/>
+Ted Mosby, an architect, recounts to his children the events that led him to meet their mother. His journey is made more eventful by the presence of his friends Lily, Marshall, Robin and Barney.
+</body>
+</html>
